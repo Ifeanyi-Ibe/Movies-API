@@ -8,6 +8,6 @@ This project contains a movies API that is based on the Star Wars API (SWAPI). I
 * add a comment to a particular movie
 * list the comments associated with a particular movie
 
-The API also include features to:
+The API also includes features to:
 * sort list of characters by name in ascending or descending order
 * filter characters by gender
