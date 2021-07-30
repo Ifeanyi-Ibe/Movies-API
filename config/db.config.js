@@ -4,5 +4,6 @@ module.exports = {
     PASSWORD: "password",
     DB: "swapi_db",
     dialect: "postgres",
+    use_env_variable: "DATABASE_URL"
   };
   
